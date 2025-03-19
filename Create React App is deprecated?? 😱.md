@@ -1,6 +1,6 @@
 # Create React App is Deprecated 🤯?
 
-`#React` `#Deprecated` `#Create-React-App` `#Why` `#Today-I-Learned`
+`#React` `#Deprecated` `#Create-React-App` `#Why` `#Today-I-Learned` `Judy Park, 19 March 2025`
 
 *If you don’t have time, you can jump to the conclusion:* [⏩ Skip to Conclusion](#4-so-what-exactly-do-you-want-to-say)
 
